@@ -1,0 +1,4 @@
+/*隐藏 tinymce alert*/
+.tox .tox-notifications-container .tox-notification {
+    display: none;
+}
